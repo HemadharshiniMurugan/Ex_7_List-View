@@ -22,13 +22,11 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 
-/*
 Program to print the list of item.
 
 Developed by: Hemadharshini M
 
 Registeration Number : 212222040053
-*/
 
 ## ACTIVITY_MAIN.XML
 ```
