@@ -26,7 +26,7 @@ Program to print the list of item.
 
 Developed by: Hemadharshini M
 
-Registeration Number : 212222040053
+Register Number : 212222040053
 
 ## ACTIVITY_MAIN.XML
 ```
